@@ -1,0 +1,63 @@
+div{
+	display: inline-block;
+	vertical-align: middle;
+	margin-left: 30px;
+	margin-top: 30px;
+}
+
+.navigation-li{
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: 20px;
+	font-size: 20px;
+}
+
+h1{
+	margin-top: 80px;
+	margin-left: 30px;
+}
+
+.text{
+	display: inline-block;
+	width: 250px;
+	margin-left: 30px;
+	vertical-align: middle;
+}
+
+.text2{
+	display: inline-block;
+	width: 250px;
+	margin-left: 30px;
+	vertical-align: middle;
+}
+
+.click{
+	vertical-align: middle;
+}
+
+.app{
+	vertical-align: middle;
+	margin-left: 50px;
+}
+
+.p-text{
+	margin-bottom: 15px;
+	margin-left: 15px;
+}
+
+.p-text2{
+	margin-bottom: 22px;
+	margin-left: 15px;
+}
+
+.color{
+	color:#EE4036;
+}
+
+.color1{
+	color:#3D58A6;
+}
+
+.div-color{
+	background-color: #F2F2F2;
+}
