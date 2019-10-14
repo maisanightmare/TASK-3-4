@@ -19,3 +19,47 @@ div{
 .color1{
 	color: #3D58A6;
 }
+
+.text{
+	width: 250px;
+	font-size: 18px;
+}
+
+h1{
+	font-size: 25px;
+	color: #3D58A6;
+	vertical-align: top;
+}
+
+.map-div{
+	display: inline-block;
+	vertical-align: top;
+	margin-left: 70px;
+	margin-top: 80px;
+}
+
+
+.p-div{
+	margin-bottom: 400px;
+	margin-top: 80px;
+	display: inline-block;
+}
+
+.back{
+	background-color: #F2F2F2;
+	margin-top: 30px;
+}
+
+.facebook{
+	display: inline-block;
+}
+
+.youtube{
+	display: inline-block;
+	margin-left: 15px;
+	margin-bottom: 10px;
+}
+
+body{
+	font-family: 'Liu Jian Mao Cao', cursive;
+}

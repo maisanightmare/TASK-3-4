@@ -12,7 +12,6 @@ div{
 	font-size: 20px;
 }
 
-
 h1{
 	margin-top: 80px;
 	margin-left: 30px;
@@ -75,8 +74,7 @@ h1{
 .youtube{
 	display: inline-block;
 	margin-left: 15px;
-	margin-bottom: 50px;
-	margin-top: 30px;
+	margin-bottom: 10px;
 }
 
 body{
